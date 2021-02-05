@@ -12,3 +12,4 @@ Everyone is able to read the message send by the other client.
 
 As implemented with basic Gui, frames are to be set side by side manually to get the look of the full project and its working.
 Both back button in frame and close button can be used to close that client.
+
